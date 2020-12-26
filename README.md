@@ -1,1 +1,1 @@
-Takes the data from the UNESCO World Heritage Sites registry in thr form of a CSV file and loads the data into a Django one-to-many data model that I designed.
+Takes the data from the UNESCO World Heritage Sites registry in the form of a CSV file and loads the data into a Django one-to-many data model that I designed.
